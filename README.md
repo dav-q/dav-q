@@ -1,6 +1,4 @@
-<h4 align="start">Hi 👋, I'm David! a passionate fullstack developer</h4>
-
-<p align="left"> <a href="https://twitter.com/quirogut" target="blank"><img src="https://img.shields.io/twitter/follow/quirogut?logo=twitter&style=for-the-badge" alt="quirogut" /></a> </p>
+Hi 👋, I'm David! a passionate fullstack developer
 
 - 🌱 I’m currently learning **Go**
 
